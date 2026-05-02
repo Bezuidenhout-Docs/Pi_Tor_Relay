@@ -1,3 +1,8 @@
+![License](https://img.shields.io/badge/License-Unlicense-lightgrey)
+![Status](https://img.shields.io/badge/Status-Running-success)
+![Uptime](https://img.shields.io/badge/Uptime-24%2F7-blue)
+![Made With](https://img.shields.io/badge/Made_With-Raspberry_Pi_OS-9cf)
+
 # Tor Relay on Raspberry Pi 3 B
 
 A low-cost, low-power Tor middle relay built with a Raspberry Pi 3 B. This project contributes bandwidth to the Tor network to help strengthen anonymous communication worldwide.
